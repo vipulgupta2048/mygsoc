@@ -23,7 +23,7 @@ All information regarding GSoC over the course of 2 years right under one reposi
 **Org Admin** - Walter Bender 
 **Mentors** - Carlos, Abdul 
 **Student** - Vipul Gupta ([@vipulgupta2048](https://twitter.com/vipulgupta2048))
-**GSoC Blog** - [Mixster x GSoC](https://mixstersite.wordpress.com/gsoc/) 
+**GSoC Blog** - [Mixster x GSoC](https://mixstersite.wordpress.com/gsoc/)
 
 **Project Name** - Setting up of Activity Server and WikiPort (Activity Migration)
 **Project Description** - [WikiPort](https://wiki.sugarlabs.org/go/WikiPort)
