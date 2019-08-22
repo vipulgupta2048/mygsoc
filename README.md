@@ -3,8 +3,7 @@ All information regarding GSoC over the course of 2 years right under one reposi
 
 [Google Summer of Code](https://summerofcode.withgoogle.com) is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school.
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif">
-![](https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif)
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" align="center">
 
 ## 2019
 **Google Summer of Code 2019 with The Scrapy Project**
