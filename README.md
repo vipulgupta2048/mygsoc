@@ -22,7 +22,7 @@ Cerberus provides powerful yet simple and lightweight data validation functional
 
 The goal of this project was to integrate, test and enable Cerberus as a new option for item validation available for the user. 
 
-### [**Click here for Work Product**](https://github.com/scrapinghub/spidermon/pull/201)
+### :arrow_right: [**Click here for Work Product**](https://github.com/scrapinghub/spidermon/pull/201) :arrow_left:
 
 ***
 
@@ -43,4 +43,4 @@ The goal of this project was to integrate, test and enable Cerberus as a new opt
 
 The aim of the project was to fix metadata of programs called as activities that run on the Linux-based distro popularly known as Sugar, and other related platforms to facilitate the development and deployment of the new activity server, ASLOv3. All part of products and services offered by Sugar Labs in order to automate and free up maintainence tasks. Read more about it on [Mixster](https://mixstersite.wordpress.com/gsoc/ ).
 
-### [**Click here for Work Product**](https://github.com/vipulgupta2048/sugarport)
+### :arrow_right:  [**Click here for Work Product**](https://github.com/vipulgupta2048/sugarport) :arrow_left:
