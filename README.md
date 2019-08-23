@@ -13,7 +13,7 @@ All information regarding GSoC over the course of 2 years right under one reposi
 **Co-Org Admin** - Cathal  
 **Mentors** - Renne, Julio   
 **Student** - Vipul Gupta   
-**Personal GSoC Blog** - Mixster x GSoC  
+**Personal GSoC Blog** - [Mixster x GSoC](https://mixstersite.wordpress.com/gsoc/)  
 **PSF Blog** - https://blogs.python-gsoc.org/en/blogs/vipulgupta2048s-blog/  
 
 Spidermon is a recommended tool for monitoring spiders created using Scrapy. The user at the time can choose between two libraries for item validation rules: jsonschema and schematics. We want to provide a third option that being Cerberus.
