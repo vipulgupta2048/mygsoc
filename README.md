@@ -6,7 +6,7 @@ All information regarding GSoC over the course of 2 years right under one reposi
 ## 2019
 **Google Summer of Code 2019 with The Scrapy Project**
 
-**STATUS** - **FINISHED**  
+**STATUS** - **FINISHED**  :heavy_check_mark:  
 **Project** - Integrate Cerberus  
 **Project Link**- [Google Archive](https://summerofcode.withgoogle.com/projects/?sp-search=vipulgupta2048#6742209389395968)
 
