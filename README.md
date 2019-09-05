@@ -63,5 +63,6 @@ If you like to read more, I can recommend.
 - [Mixster #GSoC](https://mixstersite.wordpress.com/gsoc/) - All Work Reports
 - [Sugar Labs Wiki](https://wiki.sugarlabs.org/go/WikiPort)
 - [ALiAS GSoC AMA Program](http://asetalias.in/blog/post/aliasama/)
+- [One, Two, Three, ... GSoC!!](https://mixstersite.wordpress.com/2018/04/25/123gsoc/)
 
 ![](a.png)
