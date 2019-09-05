@@ -27,6 +27,8 @@ Cerberus provides powerful yet simple and lightweight data validation functional
 
 The goal of this project was to integrate, test and enable Cerberus as a new option for item validation available for the user. 
 
+#### [Letter of Completion](https://www.slideshare.net/slideshow/embed_code/key/KVV3SH7RIKBigP) | [Completion Certificate](https://www.slideshare.net/slideshow/embed_code/key/esicENx0aszm6n) | [Project Proposal #1](https://docs.google.com/document/d/14iLYsnZYpxR-YvbceB6VljyCBwCFsPk4f-iaoPGAUZY/edit?usp=sharing) | [Project Proposal #2](https://docs.google.com/document/d/1FGd1te3A07PDIcQheBDparclUemU1CE_ixngHTVvQzs/edit?usp=sharing)
+
 ### :arrow_right: [**Click here for Work Product**](https://github.com/scrapinghub/spidermon/pull/201) :arrow_left:
 
 ------------------
@@ -47,6 +49,8 @@ The goal of this project was to integrate, test and enable Cerberus as a new opt
 
 The aim of the project was to fix metadata of programs called as activities that run on the Linux-based distro popularly known as Sugar, and other related platforms to facilitate the development and deployment of the new activity server, ASLOv3. All part of products and services offered by Sugar Labs in order to automate and free up maintainence tasks. Read more about it on [Mixster](https://mixstersite.wordpress.com/gsoc/ ).
 
+#### [Letter of Completion](https://www.slideshare.net/slideshow/embed_code/key/h3qbNXWK9Xx3rj) | [Completion Certificate](https://www.slideshare.net/slideshow/embed_code/key/2hEpWDL2Cg3PNW) | [Project Proposal](https://docs.google.com/document/d/1mPd_SeUqeJF_yKWVEDFuzU7LWsnUFSbLdQQ44HvsYyA/edit?usp=sharing)
+
 ### :arrow_right:  [**Click here for Work Product**](https://github.com/vipulgupta2048/sugarport) :arrow_left:
 
 ***
@@ -60,4 +64,4 @@ If you like to read more, I can recommend.
 - [Sugar Labs Wiki](https://wiki.sugarlabs.org/go/WikiPort)
 - [ALiAS GSoC AMA Program](http://asetalias.in/blog/post/aliasama/)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here are some really good blogs to get started on <a href="https://twitter.com/gsoc?ref_src=twsrc%5Etfw">@gsoc</a><br><br>- One stop guide to Google Summer of Code by <a href="https://twitter.com/harshithdwivedi?ref_src=twsrc%5Etfw">@harshithdwivedi</a> <a href="https://t.co/362CrMUIPL">https://t.co/362CrMUIPL</a><br><br>- ONE, TWO, THREE … GSOC !! by <a href="https://twitter.com/vipulgupta2048?ref_src=twsrc%5Etfw">@vipulgupta2048</a> <a href="https://t.co/DYl16tF6Hb">https://t.co/DYl16tF6Hb</a><a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a> <a href="https://twitter.com/hashtag/womenintech?src=hash&amp;ref_src=twsrc%5Etfw">#womenintech</a> <a href="https://twitter.com/hashtag/GSOC?src=hash&amp;ref_src=twsrc%5Etfw">#GSOC</a></p>— Damini Satya ✨🧚🏼‍♀️ @ OSS NA 2019 (@Daminisatya) <a href="https://twitter.com/Daminisatya/status/1101116125356539905?ref_src=twsrc%5Etfw">February 28, 2019</a></blockquote> 
+![](a.png)
