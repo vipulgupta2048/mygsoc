@@ -10,7 +10,7 @@ Hi, I am **Vipul Gupta** and the following is information regarding my work with
 
 **STATUS** - **FINISHED**  :heavy_check_mark:  
 **Project** - Integrate Cerberus  
-**Project Link**- [Google Archive](https://summerofcode.withgoogle.com/projects/?sp-search=vipulgupta2048#6742209389395968)
+**Project Link**- [Google Archive](https://summerofcode.withgoogle.com/archive/2019/projects/5471827642548224/)
 
 **Co-Org Admin** - Cathal  
 **Mentors** - Renne Rocha, Júlio César Batista   
