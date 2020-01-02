@@ -59,10 +59,11 @@ The aim of the project was to fix metadata of programs called as activities that
 
 If you like to read more, I can recommend.
 
+- [One, Two, Three, ... GSoC!!](https://mixstersite.wordpress.com/2018/04/25/123gsoc/)
 - [Python Software Foundation Official Blog](https://blogs.python-gsoc.org/en/vipulgupta2048s-blog/)
 - [Mixster #GSoC](https://mixstersite.wordpress.com/gsoc/) - All Work Reports
 - [Sugar Labs Wiki](https://wiki.sugarlabs.org/go/WikiPort)
 - [ALiAS GSoC AMA Program](http://asetalias.in/blog/post/aliasama/)
-- [One, Two, Three, ... GSoC!!](https://mixstersite.wordpress.com/2018/04/25/123gsoc/)
+- [Transcending Limitations and Fulfilling Goals as a GSoC Student](https://dev.to/vipulgupta2048/transcending-limitations-and-fulfilling-goals-as-a-gsoc-student-4jcb)
 
 ![](a.png)
