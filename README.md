@@ -8,18 +8,18 @@ Hi, I am **Vipul Gupta** and the following is information regarding my work with
 
 ## Google Summer of Code 2019 with The Scrapy Project
 
-**STATUS** - **Finished**  :heavy_check_mark:
-**Project** - Integrate Cerberus
-**Project Link**- [Google Archive](https://summerofcode.withgoogle.com/archive/2019/projects/5471827642548224/)
+**STATUS** - **Finished**  :heavy_check_mark:  
+**Project** - Integrate Cerberus  
+**Project Link**- [Google Archive](https://summerofcode.withgoogle.com/archive/2019/projects/5471827642548224/)  
 
-**Org Admin** - Cathal
-**Mentors** - Renne Rocha, Júlio César Batista
-**Student** - Vipul Gupta ([@vipulgupta2048](https://twitter.com/vipulgupta2048))
+**Org Admin** - Cathal  
+**Mentors** - Renne Rocha, Júlio César Batista  
+**Student** - Vipul Gupta ([@vipulgupta2048](https://twitter.com/vipulgupta2048))  
 
-**Personal GSoC Blog** - [Mixster x GSoC](https://mixstersite.wordpress.com/gsoc/)
-**PSF Blog** - https://blogs.python-gsoc.org/en/blogs/vipulgupta2048s-blog/
+**Personal GSoC Blog** - [Mixster x GSoC](https://mixstersite.wordpress.com/gsoc/)  
+**PSF Blog** - https://blogs.python-gsoc.org/en/blogs/vipulgupta2048s-blog/  
 
-**Work Report** - [Final Work Report # GSoC 2019](https://mixstersite.wordpress.com/2019/08/24/integrate-cerberus-work-report/)
+**Work Report** - [Final Work Report # GSoC 2019](https://mixstersite.wordpress.com/2019/08/24/integrate-cerberus-work-report/)  
 
 Spidermon is a recommended tool for monitoring spiders created using Scrapy. The user at the time can choose between two libraries for item validation rules: jsonschema and schematics. We want to provide a third option that being Cerberus.
 
@@ -35,19 +35,18 @@ The goal of this project was to integrate, test and enable Cerberus as a new opt
 
 ## Google Summer of Code 2018 with Sugar Labs
 
-**STATUS** - **Finished** :heavy_check_mark:
+**STATUS** - **Finished** :heavy_check_mark:  
+**Project** - Setting up of Activity Server and WikiPort (Activity Migration)  
+**Project link** - [Google Archive](https://summerofcode.withgoogle.com/archive/2018/projects/4997424095428608/)  
 
-**Project** - Setting up of Activity Server and WikiPort (Activity Migration)
-**Project link** - [Google Archive](https://summerofcode.withgoogle.com/archive/2018/projects/4997424095428608/)
+**Org Admin** - Walter Bender  
+**Mentors** - Carlos, Abdul  
+**Student** - Vipul Gupta ([@vipulgupta2048](https://twitter.com/vipulgupta2048))  
 
-**Org Admin** - Walter Bender
-**Mentors** - Carlos, Abdul
-**Student** - Vipul Gupta ([@vipulgupta2048](https://twitter.com/vipulgupta2048))
+**GSoC Blog** - [Mixster x GSoC](https://mixstersite.wordpress.com/gsoc/)  
+**Project Description** - [WikiPort](https://wiki.sugarlabs.org/go/WikiPort)  
 
-**GSoC Blog** - [Mixster x GSoC](https://mixstersite.wordpress.com/gsoc/)
-**Project Description** - [WikiPort](https://wiki.sugarlabs.org/go/WikiPort)
-
-The aim of the project was to fix metadata of programs called as activities that run on the Linux-based distro popularly known as Sugar, and other related platforms to facilitate the development and deployment of the new activity server, ASLOv3. All part of products and services offered by Sugar Labs in order to automate and free up maintainence tasks. Read more about it on [Mixster](https://mixstersite.wordpress.com/gsoc/ ).
+The aim of the project was to fix metadata of programs called as activities that run on the Linux-based distro popularly known as Sugar, and other related platforms to facilitate the development and deployment of the new activity server, ASLOv3. All part of products and services offered by Sugar Labs in order to automate and free up maintainence tasks. Read more about it on [Mixster](https://mixstersite.wordpress.com/gsoc/ ).  
 
 #### [Letter of Completion](https://www.slideshare.net/slideshow/embed_code/key/h3qbNXWK9Xx3rj) | [Completion Certificate](https://www.slideshare.net/slideshow/embed_code/key/2hEpWDL2Cg3PNW) | [Project Proposal](https://docs.google.com/document/d/1mPd_SeUqeJF_yKWVEDFuzU7LWsnUFSbLdQQ44HvsYyA/edit?usp=sharing)
 
