@@ -64,5 +64,3 @@ If you like to read more, I can recommend.
 - [Python Software Foundation Official Blog](https://blogs.python-gsoc.org/en/vipulgupta2048s-blog/)
 - [Mixster #GSoC](https://mixstersite.wordpress.com/gsoc/) - Read about the 12 week journey in
 - [Talking Gsoc and open source w/ Vipul and Prakhar - DeCompiled Podcast](https://www.youtube.com/watch?v=CFAT_X84zJM)
-
-![](a.png)
