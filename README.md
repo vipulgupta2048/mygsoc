@@ -1,4 +1,7 @@
-# Google Summer of Code with 2048
+# Deprecated with latest information now available on [talkswith2048](https://github.com/vipulgupta2048/talkswith2048/blob/master/README.md#google-summer-of-code-with-2048). 
+
+
+(Deprecated) Google Summer of Code with 2048
 
 [Google Summer of Code](https://summerofcode.withgoogle.com) is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school.
 
